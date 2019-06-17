@@ -1,7 +1,6 @@
 # bootstrap-cv
 <!DOCTYPE html>
 <html lang="en">
-<body background="bgimage.jpg">
 
 <head>
   <title> Website </title>
