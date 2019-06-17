@@ -1,4 +1,4 @@
-# bootstrap-cv
+#bootstrap-cv
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,9 +9,6 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
  
 <title> my website </title>
-
-
-
 </head>
 
 
@@ -35,7 +32,7 @@
   <img src="image.jpg" class="mx-auto d-block" style="width:50%">
 
 
-  <img src = "C:\Users\BHUMICA\Documents\html\index\image.jpg" class="mx-auto d-block" alt="Bhumica's profile photo" width="260" height="260"> 
+  <img src = "image.jpg" class="mx-auto d-block" alt="Bhumica's profile photo" width="260" height="260"> 
   
  
 </div>
