@@ -32,9 +32,7 @@
 </div>
 
 <div class="container">
-
-
-  <img src = "image.jpeg" class="mx-auto d-block" alt="Bhumica's profile photo" width="260" height="260" style="width:50%"> 
+<img src = "image.jpeg" class="mx-auto d-block" alt="Bhumica's profile photo" width="260" height="260" style="width:50%"> 
   
  
 </div>
@@ -50,26 +48,21 @@
       <tr>
         <th>Education</th>
         <th>Place</th>
-        
-      </tr>
+        </tr>
     </thead>
     <tbody>
       <tr>
         <td>SIT</td>
         <td>Tumkur</td>
-       
-      </tr>
-        
+        </tr>
          <tr>
         <td>Deeksha College</td>
         <td>Tumkur</td>
-       
-      </tr>
+       </tr>
         <tr>
         <td>Bishop Sargant School</td>
         <td>Tumkur</td>
-       
-      </tr>
+         </tr>
     
     
 
