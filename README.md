@@ -1,5 +1,4 @@
-#bootstrap-cv
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
