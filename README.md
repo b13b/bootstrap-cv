@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -9,67 +9,68 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-
  
 <title> my website </title>
+
+
+
 </head>
 
 
 <body>
 	<div class="container-fluid">
- 
- 
-
   <div class="jumbotron">
   <h1 class="display-4">BHUMICA B</h1>
   <p class="bg-dark text-white">My Resume</p>
-  
-  
   <hr class="my-4">
- 
- 
-</div>
+ </div>
 
 <div class="container">
-<img src = "image.jpg" class="mx-auto d-block" alt="Bhumica's profile photo" width="260" height="260" style="width:50%"> 
+
+
+
+  <img src = "C:\Users\Admin\Documents\index\image.jpg" class="mx-auto d-block" alt="Bhumica's profile photo" width="250" height="370" style="width:50%"> 
   
  
 </div>
 
-
-<div class="container">
-	<p> A student. </p> 
+<h2>Educational Qualification</h2>
+<p> Student. </p> 
     <p>	I am currently studying in fifth semester,CSE. </p>
-  <h2>Educational Qualification</h2>
+ 
+<div class="container">
+	
            
   <table class="table table-dark">
     <thead>
       <tr>
         <th>Education</th>
         <th>Place</th>
-        </tr>
+        
+      </tr>
     </thead>
     <tbody>
       <tr>
         <td>SIT</td>
         <td>Tumkur</td>
-        </tr>
+       
+      </tr>
+        
          <tr>
         <td>Deeksha College</td>
         <td>Tumkur</td>
-       </tr>
+       
+      </tr>
         <tr>
         <td>Bishop Sargant School</td>
         <td>Tumkur</td>
-         </tr>
-    
-    
-
+       
+      </tr>
+    </tbody>
+    </table>
 </div>
 
 
-
-<hr>
 
 <hr>
 
@@ -111,8 +112,6 @@ Last Name: <input type="text" name="lname"> <br>
 
 </div>
 
-
 </body>
 
 </html>
-
