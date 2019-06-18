@@ -29,7 +29,7 @@
 
 
 
-  <img src = "C:\Users\Admin\Documents\index\image.jpg" class="mx-auto d-block" alt="Bhumica's profile photo" width="250" height="370" style="width:50%"> 
+  <img src = "image.jpg" class="mx-auto d-block" alt="Bhumica's profile photo" width="250" height="370" style="width:50%"> 
   
  
 </div>
