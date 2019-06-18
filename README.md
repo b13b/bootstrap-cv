@@ -33,10 +33,8 @@
 
 <div class="container">
 
-  <img src="image.jpg" class="mx-auto d-block" style="width:50%">
 
-
-  <img src = "image.jpg" class="mx-auto d-block" alt="Bhumica's profile photo" width="260" height="260"> 
+  <img src = "image.jpg" class="mx-auto d-block" alt="Bhumica's profile photo" width="260" height="260" style="width:50%"> 
   
  
 </div>
